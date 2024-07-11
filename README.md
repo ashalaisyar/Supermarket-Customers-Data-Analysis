@@ -1,8 +1,5 @@
 # **Supermarket Customers Analysis**
 
-**Tools:** Python & Tableau<br>
-**Dataset:** Supermarket Customers
-
 **Outline:**
 
 1. [**Business Background & Problem**](#Business-Background-&-Problem)
@@ -10,6 +7,9 @@
 3. [**Data Analysis**](#Data-Analysis)
 4. [**Conclusion & Recommendation**](#Conclusion-&-Recommendation)
 5. [**Dashboard Visualization**](#Dashboard-Visualization)
+
+**Tools:** Python & Tableau<br>
+**Dataset:** Supermarket Customers
 
 ---
 
