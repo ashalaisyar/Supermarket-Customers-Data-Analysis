@@ -272,9 +272,9 @@ Based on those recommendations, supermarket can implement fit segmentation, clea
 
 Clean data is also visualized with Tableau in the form of a dashboard. The following is the dashboard link for this project:
 
-https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Supermarket%20Customer%20Analytics_Dashboard.twbx
+https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Supermarket%20Customer%20Analytics_New%20Dashboard.twbx
 
-![image](https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Dashboard%20Tableau.png)
+![image](https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Tableau%20Dashboard.png)
 
 
 
