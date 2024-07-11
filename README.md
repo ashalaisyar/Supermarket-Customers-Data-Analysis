@@ -274,7 +274,7 @@ Clean data is also visualized with Tableau in the form of a dashboard. The follo
 
 https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Supermarket%20Customer%20Analytics_Dashboard.twbx
 
-![image](https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Dashboard.png)
+![image](https://github.com/ashalaisyar/Supermarket-Customers-Data-Analysis/blob/main/Dashboard%20Tableau.png)
 
 
 
